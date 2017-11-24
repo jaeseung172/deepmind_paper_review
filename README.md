@@ -1,10 +1,10 @@
-# Let's Make Go!
+﻿# Let's Make Go!
 
 ## Some Paper Review
 
 1. Mastering The game of Go without Human Knowledge.
 
-	- [��ũ](https://github.com/jaeseung172/deepmind_paper_review/blob/master/Mastering%20The%20game%20of%20Go%20Without%20Human%20Knowledge.pdf)
+	- [링크](https://github.com/jaeseung172/deepmind_paper_review/blob/master/Mastering%20The%20game%20of%20Go%20Without%20Human%20Knowledge.pdf)
 
 2. Playing Go without Game Tree Search Using Convolutional Neural Networks.
 

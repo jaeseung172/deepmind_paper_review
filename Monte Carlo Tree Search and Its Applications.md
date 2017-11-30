@@ -32,23 +32,15 @@
 
 	2. The Four Steps of MCTS
 
-		- 몬테 카를로 나무 탐색 기법은 선택 → 추가 → 시뮬레이션(을 통한 추가) → Back-Propagation 의 순으로 동작한다. 더 자세하게 설명하면 다음과 같다.
+		- 몬테 카를로 나무 탐색 기법은 선택 → 추가 → 시뮬레이션(을 통한 추가) → Back-Propagation 의 순으로 동작한다.
 
-		- 선택: 선택 과정에서는 
-
-	3. Upper Confidence Bound
-
-3. 몬테 카를로 나무 탐색을 사용하여 바둑 플레이하기
-
-	1. All Moves First
-
-	2. Rapid Action Value Estimate
-
-	3. Monte Carlo Rapid Action Value Estimate
-
-	4. Go Result
+		- 
 
 - 결론
+
+	- 몬테 카를로 트리 시뮬레이션을 사용해본 결과 두개의 바둑 플레이에서 좋은 결과를 낼 수 있었다.
+
+	- 바둑 플레이에서는
 
 -------------
 
